@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 06 Jan 2021 09:44:48 +0800
+Date: Wed, 06 Jan 2021 16:03:25 +0800
 Source: fibnacci
 Binary: fibnacci
 Architecture: source all
@@ -15,20 +15,20 @@ Changes:
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- 48e8db8bb344f574430bf9b76aa057697291b079 806 fibnacci_1.0-1.dsc
- 06b7589bb8fa5b9e428af92e5ac4b0e1060115bc 301 fibnacci_1.0.orig.tar.gz
- 2bc7d989fe9c1ccae5206e5906caa53d7ae15d0b 2232 fibnacci_1.0-1.debian.tar.xz
- c97f39d71d3ada5e33d296930bd8b71870b879b4 2536 fibnacci_1.0-1_all.deb
- 8c0ca89ad63fd195eaf7a76de2cd06ac428e987b 6070 fibnacci_1.0-1_arm64.buildinfo
+ 5fb9d1e545696e2bf822f36b7f855d6cd00b9cc3 806 fibnacci_1.0-1.dsc
+ d1768ba95fd2d03cd22491d5352dfc645a4d3724 423 fibnacci_1.0.orig.tar.gz
+ 7d59afb6853d5932bb7ceb17cfebede0815509be 2232 fibnacci_1.0-1.debian.tar.xz
+ 2e93b7838fa8e5890ccfcfdd7125898417a8dbe5 2640 fibnacci_1.0-1_all.deb
+ 006f7717480d562be5d5f0b8f7a1b707b79f32e3 6070 fibnacci_1.0-1_arm64.buildinfo
 Checksums-Sha256:
- bb1ec5f487f7ef2c4ddc3ceee89271c9b517479411c940c7a4f741caafa94e3f 806 fibnacci_1.0-1.dsc
- a5f9f3cc78d8a6b7ea2c175cd6387412ada44cfa62a8af29198e8aebaaf563c0 301 fibnacci_1.0.orig.tar.gz
- 9f4e8e00193e4c90d071da7690f225cde22f2cc0801a9d27b930c25c51705279 2232 fibnacci_1.0-1.debian.tar.xz
- b5c44ad5b97fbf1043ec2ddd7cd4e0ea395cb438c176aaafc5242d9cb2f8054a 2536 fibnacci_1.0-1_all.deb
- 2e2af855c047e50f1cd87d610cc287052f6481039ed1ab1afe9d29f8f36fe0be 6070 fibnacci_1.0-1_arm64.buildinfo
+ 8bfb18e9398a002b033f90917bfb6898764bd6d5053b3bb641944207af394c24 806 fibnacci_1.0-1.dsc
+ dc0e04c42f40b602edcf1fc83d593fa9560813ce1c3cd1c4392459a3c2fbf22b 423 fibnacci_1.0.orig.tar.gz
+ e246d45e8d5709d05cb008487f6b73aa2c3bef1f8752f1b195483f654f64d8e2 2232 fibnacci_1.0-1.debian.tar.xz
+ a7538d4bc28559bef8d765e8b186570b09f7bb4434c9040f42328fcbd68ffc14 2640 fibnacci_1.0-1_all.deb
+ 505a975cc0fb79fc730bab7aaa30056f10f2c697a6fd69bdc06493562dd73ad3 6070 fibnacci_1.0-1_arm64.buildinfo
 Files:
- 5bb2489024729e23939e1a8d1ea5794e 806 x11 optional fibnacci_1.0-1.dsc
- fdf3f9cdbbcca7801f9314ec91127129 301 x11 optional fibnacci_1.0.orig.tar.gz
- 3035fe414de4fbc8e2cd15147d945381 2232 x11 optional fibnacci_1.0-1.debian.tar.xz
- abeeaee737384bbcb2ab22b6d262762f 2536 x11 optional fibnacci_1.0-1_all.deb
- 1f91c95d5e1f1d6e883938f995257056 6070 x11 optional fibnacci_1.0-1_arm64.buildinfo
+ 1f14c028cda37a84ef83bf7fe03941fb 806 x11 optional fibnacci_1.0-1.dsc
+ 291d9448d277c5291686b8aa0c1a5273 423 x11 optional fibnacci_1.0.orig.tar.gz
+ d2c8756a1061192b660aa3da80eaa481 2232 x11 optional fibnacci_1.0-1.debian.tar.xz
+ a2880cc0f47bf19371b00ec5395ae9d9 2640 x11 optional fibnacci_1.0-1_all.deb
+ ed312ea1cdd99dbcf98e539cc2905951 6070 x11 optional fibnacci_1.0-1_arm64.buildinfo

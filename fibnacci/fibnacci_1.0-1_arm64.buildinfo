@@ -4,17 +4,17 @@ Binary: fibnacci
 Architecture: all source
 Version: 1.0-1
 Checksums-Md5:
- 5bb2489024729e23939e1a8d1ea5794e 806 fibnacci_1.0-1.dsc
- abeeaee737384bbcb2ab22b6d262762f 2536 fibnacci_1.0-1_all.deb
+ 1f14c028cda37a84ef83bf7fe03941fb 806 fibnacci_1.0-1.dsc
+ a2880cc0f47bf19371b00ec5395ae9d9 2640 fibnacci_1.0-1_all.deb
 Checksums-Sha1:
- 48e8db8bb344f574430bf9b76aa057697291b079 806 fibnacci_1.0-1.dsc
- c97f39d71d3ada5e33d296930bd8b71870b879b4 2536 fibnacci_1.0-1_all.deb
+ 5fb9d1e545696e2bf822f36b7f855d6cd00b9cc3 806 fibnacci_1.0-1.dsc
+ 2e93b7838fa8e5890ccfcfdd7125898417a8dbe5 2640 fibnacci_1.0-1_all.deb
 Checksums-Sha256:
- bb1ec5f487f7ef2c4ddc3ceee89271c9b517479411c940c7a4f741caafa94e3f 806 fibnacci_1.0-1.dsc
- b5c44ad5b97fbf1043ec2ddd7cd4e0ea395cb438c176aaafc5242d9cb2f8054a 2536 fibnacci_1.0-1_all.deb
+ 8bfb18e9398a002b033f90917bfb6898764bd6d5053b3bb641944207af394c24 806 fibnacci_1.0-1.dsc
+ a7538d4bc28559bef8d765e8b186570b09f7bb4434c9040f42328fcbd68ffc14 2640 fibnacci_1.0-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: arm64
-Build-Date: Wed, 06 Jan 2021 09:50:54 +0800
+Build-Date: Wed, 06 Jan 2021 16:06:04 +0800
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -194,4 +194,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="zh_CN.UTF-8"
- SOURCE_DATE_EPOCH="1609897488"
+ SOURCE_DATE_EPOCH="1609920205"

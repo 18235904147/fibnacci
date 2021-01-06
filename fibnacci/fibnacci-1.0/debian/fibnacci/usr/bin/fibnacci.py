@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def fib(n):
 	pre1 = 1;
 	pre2 = 1;
@@ -8,7 +9,20 @@ def fib(n):
 		pre1 = pre2
 		pre2 = tmp + pre2
 
+def check_n(n):
+	if n.isdigit():
+		if isinstance(int(n),int) and int(n) > 0:
+			return int(n)
+		else:
+			return False
+	else:
+		return False
+
 if __name__ =="__main__":
-	n = int(input('输入：'))
-	fib(n)
+	n = input('输入：')
+	result = check_n(n)
+	if result is False:
+		print("错误！")
+	else:
+		fib(result)
 
