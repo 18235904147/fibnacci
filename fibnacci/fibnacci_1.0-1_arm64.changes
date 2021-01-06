@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Wed, 06 Jan 2021 09:44:48 +0800
+Source: fibnacci
+Binary: fibnacci
+Architecture: source all
+Version: 1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: sqp <songqianpeng@kylinos.cn>
+Changed-By: sqp <songqianpeng@kylinos.cn>
+Description:
+ fibnacci   - <insert up to 60 chars description>
+Changes:
+ fibnacci (1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 48e8db8bb344f574430bf9b76aa057697291b079 806 fibnacci_1.0-1.dsc
+ 06b7589bb8fa5b9e428af92e5ac4b0e1060115bc 301 fibnacci_1.0.orig.tar.gz
+ 2bc7d989fe9c1ccae5206e5906caa53d7ae15d0b 2232 fibnacci_1.0-1.debian.tar.xz
+ c97f39d71d3ada5e33d296930bd8b71870b879b4 2536 fibnacci_1.0-1_all.deb
+ 8c0ca89ad63fd195eaf7a76de2cd06ac428e987b 6070 fibnacci_1.0-1_arm64.buildinfo
+Checksums-Sha256:
+ bb1ec5f487f7ef2c4ddc3ceee89271c9b517479411c940c7a4f741caafa94e3f 806 fibnacci_1.0-1.dsc
+ a5f9f3cc78d8a6b7ea2c175cd6387412ada44cfa62a8af29198e8aebaaf563c0 301 fibnacci_1.0.orig.tar.gz
+ 9f4e8e00193e4c90d071da7690f225cde22f2cc0801a9d27b930c25c51705279 2232 fibnacci_1.0-1.debian.tar.xz
+ b5c44ad5b97fbf1043ec2ddd7cd4e0ea395cb438c176aaafc5242d9cb2f8054a 2536 fibnacci_1.0-1_all.deb
+ 2e2af855c047e50f1cd87d610cc287052f6481039ed1ab1afe9d29f8f36fe0be 6070 fibnacci_1.0-1_arm64.buildinfo
+Files:
+ 5bb2489024729e23939e1a8d1ea5794e 806 x11 optional fibnacci_1.0-1.dsc
+ fdf3f9cdbbcca7801f9314ec91127129 301 x11 optional fibnacci_1.0.orig.tar.gz
+ 3035fe414de4fbc8e2cd15147d945381 2232 x11 optional fibnacci_1.0-1.debian.tar.xz
+ abeeaee737384bbcb2ab22b6d262762f 2536 x11 optional fibnacci_1.0-1_all.deb
+ 1f91c95d5e1f1d6e883938f995257056 6070 x11 optional fibnacci_1.0-1_arm64.buildinfo

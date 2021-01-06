@@ -1,0 +1,5 @@
+fibnacci (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- sqp <songqianpeng@kylinos.cn>  Wed, 06 Jan 2021 09:44:48 +0800

@@ -1,0 +1,15 @@
+Source: fibnacci
+Section: x11
+Priority: optional
+Maintainer: sqp <songqianpeng@kylinos.cn>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/fibnacci
+#Vcs-Git: https://salsa.debian.org/debian/fibnacci.git
+
+Package: fibnacci
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
